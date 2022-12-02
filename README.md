@@ -4,6 +4,7 @@ MSc Statistics Generalised Linear Modelling coursework source code and report.
 Languages/packages: <br>
 -R <br>
 -ggplot2 <br>
+-LaTeX (report)
 
 Task 1 demonstrates: <br>
 -Data analysis, presentation and interpretation <br>
